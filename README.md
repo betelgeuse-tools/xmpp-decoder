@@ -53,7 +53,7 @@ This command will:
 ## Installation
 
 ```bash
-git clone https://github.com/betelgeuse-tools/scram-sha1-checker.git
+git clone https://github.com/betelgeuse-tools/xmpp-decoder.git
 cd scram-sha1-checker
 ```
 
