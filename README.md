@@ -16,7 +16,7 @@ A fast multithreaded tool to crack SCRAM-SHA1 server signatures using a wordlist
 ## Example Usage
 
 ```bash
-python scram_checker.py -w wordlist.txt --username jhon_doe --client_nonce abc123 --server_nonce def456 --salt SGVsbG9Xb3JsZA== --iterations 4096 --signature AbCdEf123==
+python XMPP_Decoder.py -w wordlist.txt --username jhon_doe --client_nonce abc123 --server_nonce def456 --salt SGVsbG9Xb3JsZA== --iterations 4096 --signature AbCdEf123==
 ```
 
 ### Required parameters:
