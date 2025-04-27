@@ -54,7 +54,8 @@ This command will:
 
 ```bash
 git clone https://github.com/betelgeuse-tools/xmpp-decoder.git
-cd scram-sha1-checker
+cd xmpp-decoder
+pip install -r requirements.txt
 ```
 
 **Required packages** (also can be installed manually):
